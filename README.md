@@ -1,4 +1,4 @@
-# wishList
+# problemList
 This is my list of bite-sized problems to solve. 
 
 1. deepKey: Sorting an object based off on a deeply-nested property or a function of a deeply-nested property. 
